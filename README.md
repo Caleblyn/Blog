@@ -1,0 +1,2 @@
+# Blog
+Written thoughts/editorials
